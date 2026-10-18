@@ -1,16 +1,16 @@
-## Hi there 👋
+# Aditya Bansal
 
-<!--
-**aditya-bansal-dev/aditya-bansal-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analytics Engineer working with Power BI, Snowflake and dbt.
 
-Here are some ideas to get you started:
+Currently building breadth in cloud and platform security through
+structured coursework:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cloud: Azure and AWS fundamentals
+- Linux fundamentals
+- Build and dependencies: Maven
+- Git and GitHub
+- Next: Docker and Kubernetes
+
+Earlier: Spark and Delta Lake pipelines on Databricks (sample-data projects).
+
+LinkedIn: linkedin.com/in/aditya-bansal-74bb85251
